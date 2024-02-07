@@ -1,4 +1,4 @@
-# InterCampus-Tournament + Spots Analytics Club
+# InterCampus-Tournament + Sports Analytics Club
 
 ## Project Description
 
@@ -13,16 +13,18 @@ Since most people that signed up to work on the project chose **football** and/o
 
 ## Project Steps
 
-1. **Data Collection**: Recording the football and basketball (and potentially volleyball) games played during the InterCampus Tournament.
+1. **Research and Understanding**: Researching and understanding how the YOLOv8 model works and how we're going to implement it to the different sports. 
 
-2. **Model Development**:
+2. **Data Collection**: Recording the football and basketball (and potentially volleyball) games played during the InterCampus Tournament.
+
+3. **Model Development**:
 
 - *Object Detection*: Using yolov5 or yolov8 from ultralytics to train object detection models. Train and apply the models to the recorded games.
 - *Data Analysis Models*: Building models to analyze player performance, predict game outcomes, and uncover insights into team strategies.
 
-3. **Implementation**: Applying the models to the last games of the tournament to collect data and provide analytics.
+4. **Implementation**: Applying the models to the last games of the tournament to collect data and provide analytics.
 
-4. **Analysis and Reporting**: Analyzing the collected data to share insights into the tournament that all students, not just those participating, can enjoy and find interesting.
+5. **Analysis and Reporting**: Analyzing the collected data to share insights into the tournament that all students, not just those participating, can enjoy and find interesting.
 
 
 ## Technologies Involved
