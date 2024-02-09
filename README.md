@@ -32,5 +32,5 @@ Since most people that signed up to work on the project chose **football** and/o
 The project will involve the following technologies:
 
 - **Python**: Modules used will likley include Pandas, Numpy, Ultralytics, Matplotlib, Seaborn, TensorFlow, PyTorch.
-- **Physical Cameras**: Used to record the games.
+- **Physical Cameras**: Used to record the games (provided by Sports and Wellebing).
 
